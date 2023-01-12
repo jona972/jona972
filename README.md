@@ -4,7 +4,7 @@ I really like web development and I have a profile like: Full Stack Web Develope
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://media2.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://media2.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="330px"/>
   
 ### 🧐 More About Me:
 
@@ -15,6 +15,8 @@ I really like web development and I have a profile like: Full Stack Web Develope
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/jonathan-garc%C3%A9s-792647171/)
 - 📚 &nbsp; When I have free time I like to play soccer, sing and play the guitar.
 
+<br>
+<br>
 <br>
 
 ### 🔨 Languages and Tools:
