@@ -1,4 +1,4 @@
-## Hey 👋, I'm Jonathan Garces!
+## Hey 👋, I'm Jonathan Garcés!
 
 I really like web development and I have a profile like: Full Stack Web Developer 🌐, App Developer 📱; depends on the project in which it is being developed. I like to explore new technologies, to be able to apply them in future projects that are presented. 💻
 <br/>
